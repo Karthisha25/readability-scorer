@@ -1,0 +1,5 @@
+{
+  "name": "Readability Scorer",
+  "description": "A modern NLP tool to analyze text readability using Flesch-Kincaid and other metrics.",
+  "requestFramePermissions": []
+}
